@@ -152,7 +152,7 @@
     "react-test-renderer": "0.0.0-experimental-aae83a4b9",
     "shelljs": "^0.7.8",
     "signedsource": "^1.0.0",
-    "ws": "^6.1.4",
+    "ws": "^7.4.6",
     "yargs": "^15.3.1"
   },
   "detox": {
